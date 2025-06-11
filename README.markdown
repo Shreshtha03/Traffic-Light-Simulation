@@ -63,19 +63,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## File Structure 📂
-```
-Traffic-Light-Simulation/
-├── index.html          # Login page
-├── style_login.css     # Styles for the login page
-├── first_login.js      # JavaScript for login logic
-├── traffic-light.html  # Traffic Light page
-├── traffic-style.css   # Styles for the traffic light
-├── traffic-script.js   # JavaScript for light cycling
-└── README.md           # This file
-```
-
----
 
 ## How to Customize 🔧
 - **Change Login Credentials**: Edit `correctUsername` and `correctPassword` in `first_login.js`.
